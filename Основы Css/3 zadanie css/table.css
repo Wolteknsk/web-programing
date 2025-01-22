@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.table th{
+    padding: 5px;
+    background: rgb(151, 151, 151);
+    color: rgb(255, 255, 255);
+}
+.t2 td {
+    padding: 5 px;
+    background: rgb(230, 197, 231);
+}
+.t3 td {
+    padding-right: 5px;
+    background: rgb(205, 239, 255);
+}
